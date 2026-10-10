@@ -97,7 +97,7 @@ Examine returned orders, return rates, shipping costs, regional profitability, a
 
 This page brings together operational and regional indicators to support a broader understanding of business performance.
 
-![Returns,Shipping and Regional Performance](Dashboard_Images/Returns_Shipping_&_Regional_Preformance.png)
+![Returns,Shipping and Regional Performance](Dashboard_Images/Returns_Shipping_&_Regional_Performance.png)
 
 ---
 
