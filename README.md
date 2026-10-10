@@ -67,7 +67,7 @@ Get a high-level view of business performance through KPIs, monthly sales trends
 
 This page provides a consolidated view of important metrics and helps users identify areas for further investigation.
 
-![Executive Overview](Dashboard_Images/executive_overview.png)
+![Executive Overview](Dashboard_Images/Executive_Overview.png)
 
 ---
 
@@ -77,7 +77,7 @@ Explore sales across customer names, product categories, markets, order prioriti
 
 This page helps examine how sales are distributed across different parts of the business.
 
-![Sales Analysis](Dashboard_Images/sales_analysis.png)
+![Sales Analysis](Dashboard_Images/Sales_Analysis.png)
 
 ---
 
@@ -87,7 +87,7 @@ Investigate profit contribution across regions, product categories, and customer
 
 The discount analysis also helps explore the relationship between discount levels and profitability.
 
-![Profitability and Discount Analysis](Dashboard_Images/profitability_analysis.png)
+![Profitability and Discount Analysis](Dashboard_Images/Profitability&Discount_Analysis.png)
 
 ---
 
@@ -97,7 +97,7 @@ Examine returned orders, return rates, shipping costs, regional profitability, a
 
 This page brings together operational and regional indicators to support a broader understanding of business performance.
 
-![Returns, Shipping and Regional Performance](Dashboard_Images/returns_shipping_analysis.png)
+![Returns,Shipping and Regional Performance](Dashboard_Images/Returns_Shipping_&_Regional_Preformance.png)
 
 ---
 
@@ -107,7 +107,7 @@ The final dashboard brings together key business indicators and visual summaries
 
 It provides a convenient starting point for exploring overall performance and comparing important business metrics.
 
-![Final Dashboard](Dashboard_Images/final_dashboard.png)
+![Final Dashboard](Dashboard_Images/Final_Dashboard.png)
 
 ---
 
