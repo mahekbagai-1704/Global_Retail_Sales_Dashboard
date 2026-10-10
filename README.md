@@ -61,43 +61,43 @@ The dashboard highlights important metrics to help evaluate business performance
 
 The report contains five pages, each focusing on a different aspect of business performance.
 
-### 01 · Sales Analysis
-
-Explore sales across customer names, product categories, markets, order priorities, and sub-categories.
-
-This page helps examine how sales are distributed across different parts of the business.
-
-![Sales Analysis](Dasgboard images/sales_analysis.png)
-
----
-
-### 02 · Profitability & Discount Analysis
-
-Investigate profit contribution across regions, product categories, and customer segments.
-
-The discount analysis also helps explore the relationship between discount levels and profitability.
-
-![Profitability and Discount Analysis](Dasgboard images/profitability_analysis.png)
-
----
-
-### 03 · Returns, Shipping & Regional Performance
-
-Examine returned orders, return rates, shipping costs, regional profitability, and manager performance.
-
-This page brings together operational and regional indicators to support a broader understanding of business performance.
-
-![Returns, Shipping and Regional Performance](Dasgboard images/returns_shipping_analysis.png)
-
----
-
-### 04 · Executive Overview
+### 01 · Executive Overview
 
 Get a high-level view of business performance through KPIs, monthly sales trends, regional sales, customer segment contributions, and top-selling products.
 
 This page provides a consolidated view of important metrics and helps users identify areas for further investigation.
 
-![Executive Overview](Dasgboard images/executive_overview.png)
+![Executive Overview](Dashboard_Images/executive_overview.png)
+
+---
+
+### 02 · Sales Analysis
+
+Explore sales across customer names, product categories, markets, order priorities, and sub-categories.
+
+This page helps examine how sales are distributed across different parts of the business.
+
+![Sales Analysis](Dashboard_Images/sales_analysis.png)
+
+---
+
+### 03 · Profitability & Discount Analysis
+
+Investigate profit contribution across regions, product categories, and customer segments.
+
+The discount analysis also helps explore the relationship between discount levels and profitability.
+
+![Profitability and Discount Analysis](Dashboard_Images/profitability_analysis.png)
+
+---
+
+### 04 · Returns, Shipping & Regional Performance
+
+Examine returned orders, return rates, shipping costs, regional profitability, and manager performance.
+
+This page brings together operational and regional indicators to support a broader understanding of business performance.
+
+![Returns, Shipping and Regional Performance](Dashboard_Images/returns_shipping_analysis.png)
 
 ---
 
@@ -107,7 +107,7 @@ The final dashboard brings together key business indicators and visual summaries
 
 It provides a convenient starting point for exploring overall performance and comparing important business metrics.
 
-![Final Dashboard](Dasgboard images/final_dashboard.png)
+![Final Dashboard](Dashboard_Images/final_dashboard.png)
 
 ---
 
